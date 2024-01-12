@@ -1,0 +1,166 @@
+Using device: cuda
+Training-loop:   0%|          | 0/110 [00:00<?, ?it/s]Training-loop: 100%|██████████| 110/110 [00:04<00:00, 22.83it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 61.82it/s]
+Grad-cam testing
+Class 0 Accuracy: 12.28%
+Class 1 Accuracy: 27.86%
+Class 2 Accuracy: 28.87%
+Class 3 Accuracy: 0.00%
+Class 4 Accuracy: 13.09%
+Class 5 Accuracy: 89.41%
+Class 6 Accuracy: 1.01%
+Train Epoch: 1 Loss: 1.122947 Validation loss: 0.814304 Acc: 66.369593 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.10it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 53.44it/s]
+Grad-cam testing
+Class 0 Accuracy: 14.25%
+Class 1 Accuracy: 34.96%
+Class 2 Accuracy: 31.47%
+Class 3 Accuracy: 1.25%
+Class 4 Accuracy: 16.94%
+Class 5 Accuracy: 91.19%
+Class 6 Accuracy: 13.13%
+Train Epoch: 2 Loss: 0.777573 Validation loss: 0.808635 Acc: 71.338435 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.05it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 55.47it/s]
+Grad-cam testing
+Class 0 Accuracy: 17.69%
+Class 1 Accuracy: 38.35%
+Class 2 Accuracy: 34.11%
+Class 3 Accuracy: 1.25%
+Class 4 Accuracy: 20.11%
+Class 5 Accuracy: 91.77%
+Class 6 Accuracy: 23.57%
+Train Epoch: 3 Loss: 0.723552 Validation loss: 0.745555 Acc: 73.273919 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.50it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 55.15it/s]
+Grad-cam testing
+Class 0 Accuracy: 19.63%
+Class 1 Accuracy: 40.67%
+Class 2 Accuracy: 36.05%
+Class 3 Accuracy: 1.56%
+Class 4 Accuracy: 22.91%
+Class 5 Accuracy: 91.89%
+Class 6 Accuracy: 30.56%
+Train Epoch: 4 Loss: 0.685860 Validation loss: 0.742205 Acc: 73.900751 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.61it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 58.18it/s]
+Grad-cam testing
+Class 0 Accuracy: 22.02%
+Class 1 Accuracy: 43.12%
+Class 2 Accuracy: 38.10%
+Class 3 Accuracy: 1.25%
+Class 4 Accuracy: 25.11%
+Class 5 Accuracy: 92.03%
+Class 6 Accuracy: 35.96%
+Train Epoch: 5 Loss: 0.658008 Validation loss: 0.732685 Acc: 75.404600 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.01it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 55.24it/s]
+Grad-cam testing
+Class 0 Accuracy: 24.49%
+Class 1 Accuracy: 45.13%
+Class 2 Accuracy: 39.66%
+Class 3 Accuracy: 1.46%
+Class 4 Accuracy: 26.96%
+Class 5 Accuracy: 92.17%
+Class 6 Accuracy: 40.07%
+Train Epoch: 6 Loss: 0.632829 Validation loss: 0.702319 Acc: 76.342100 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.36it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 56.90it/s]
+Grad-cam testing
+Class 0 Accuracy: 26.69%
+Class 1 Accuracy: 46.64%
+Class 2 Accuracy: 40.83%
+Class 3 Accuracy: 1.61%
+Class 4 Accuracy: 28.85%
+Class 5 Accuracy: 92.32%
+Class 6 Accuracy: 42.71%
+Train Epoch: 7 Loss: 0.601280 Validation loss: 0.755207 Acc: 77.211327 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 22.72it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 45.54it/s]
+Grad-cam testing
+Class 0 Accuracy: 28.95%
+Class 1 Accuracy: 47.91%
+Class 2 Accuracy: 42.25%
+Class 3 Accuracy: 2.34%
+Class 4 Accuracy: 30.81%
+Class 5 Accuracy: 92.42%
+Class 6 Accuracy: 44.44%
+Train Epoch: 8 Loss: 0.574342 Validation loss: 0.806555 Acc: 78.258798 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 22.80it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 59.59it/s]
+Grad-cam testing
+Class 0 Accuracy: 31.43%
+Class 1 Accuracy: 49.77%
+Class 2 Accuracy: 43.32%
+Class 3 Accuracy: 3.47%
+Class 4 Accuracy: 32.75%
+Class 5 Accuracy: 92.51%
+Class 6 Accuracy: 47.25%
+Train Epoch: 9 Loss: 0.540006 Validation loss: 0.801335 Acc: 79.595858 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.14it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 58.86it/s]
+Grad-cam testing
+Class 0 Accuracy: 33.77%
+Class 1 Accuracy: 51.36%
+Class 2 Accuracy: 44.54%
+Class 3 Accuracy: 4.50%
+Class 4 Accuracy: 34.60%
+Class 5 Accuracy: 92.63%
+Class 6 Accuracy: 49.70%
+Train Epoch: 10 Loss: 0.510820 Validation loss: 0.778374 Acc: 80.802328 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.11it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 54.47it/s]
+Grad-cam testing
+Class 0 Accuracy: 35.85%
+Class 1 Accuracy: 52.62%
+Class 2 Accuracy: 45.82%
+Class 3 Accuracy: 6.25%
+Class 4 Accuracy: 36.45%
+Class 5 Accuracy: 92.74%
+Class 6 Accuracy: 51.97%
+Train Epoch: 11 Loss: 0.477709 Validation loss: 0.775741 Acc: 81.955645 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.20it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 54.97it/s]
+Grad-cam testing
+Class 0 Accuracy: 37.94%
+Class 1 Accuracy: 53.95%
+Class 2 Accuracy: 47.11%
+Class 3 Accuracy: 8.44%
+Class 4 Accuracy: 38.15%
+Class 5 Accuracy: 92.82%
+Class 6 Accuracy: 53.87%
+Train Epoch: 12 Loss: 0.451273 Validation loss: 0.807118 Acc: 82.705737 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.45it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 55.36it/s]
+Grad-cam testing
+Class 0 Accuracy: 40.28%
+Class 1 Accuracy: 55.13%
+Class 2 Accuracy: 48.45%
+Class 3 Accuracy: 10.58%
+Class 4 Accuracy: 39.97%
+Class 5 Accuracy: 92.95%
+Class 6 Accuracy: 56.49%
+Train Epoch: 13 Loss: 0.403150 Validation loss: 0.801924 Acc: 84.641221 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 23.55it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 60.02it/s]
+Grad-cam testing
+Class 0 Accuracy: 42.39%
+Class 1 Accuracy: 56.47%
+Class 2 Accuracy: 49.99%
+Class 3 Accuracy: 13.12%
+Class 4 Accuracy: 41.92%
+Class 5 Accuracy: 93.10%
+Class 6 Accuracy: 58.37%
+Train Epoch: 14 Loss: 0.368031 Validation loss: 0.841351 Acc: 86.572122 
+Training-loop: 100%|██████████| 110/110 [00:04<00:00, 22.94it/s]
+Validation-loop: 100%|██████████| 16/16 [00:00<00:00, 53.93it/s]Grad-cam testing
+Class 0 Accuracy: 44.27%
+Class 1 Accuracy: 57.66%
+Class 2 Accuracy: 51.50%
+Class 3 Accuracy: 15.25%
+Class 4 Accuracy: 43.78%
+Class 5 Accuracy: 93.24%
+Class 6 Accuracy: 59.87%
+Train Epoch: 15 Loss: 0.339130 Validation loss: 0.854668 Acc: 87.297471 
+

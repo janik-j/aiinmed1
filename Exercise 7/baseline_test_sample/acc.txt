@@ -1,0 +1,245 @@
+Using device: cuda
+Training-loop: 100%|██████████| 438/438 [00:16<00:00, 26.86it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 82.72it/s]
+Grad-cam testing
+Class 0 Accuracy: 16.67%
+Class 1 Accuracy: 42.62%
+Class 2 Accuracy: 33.68%
+Class 3 Accuracy: 0.00%
+Class 4 Accuracy: 23.62%
+Class 5 Accuracy: 92.67%
+Class 6 Accuracy: 22.22%
+100%|██████████| 16/16 [00:00<00:00, 31.93it/s]
+100%|██████████| 16/16 [00:00<00:00, 36.19it/s]
+100%|██████████| 16/16 [00:00<00:00, 37.04it/s]
+100%|██████████| 16/16 [00:00<00:00, 36.89it/s]
+100%|██████████| 16/16 [00:00<00:00, 36.52it/s]
+
+Train Epoch: 1 Loss: 0.781751 Validation loss: 0.767930 Acc: 71.429795 
+Training-loop: 100%|██████████| 438/438 [00:15<00:00, 27.49it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 86.63it/s]
+Grad-cam testing
+Class 0 Accuracy: 10.31%
+Class 1 Accuracy: 34.68%
+Class 2 Accuracy: 28.41%
+Class 3 Accuracy: 0.00%
+Class 4 Accuracy: 15.60%
+Class 5 Accuracy: 93.60%
+Class 6 Accuracy: 11.62%
+Train Epoch: 2 Loss: 0.924210 Validation loss: 1.150396 Acc: 68.200152 
+Training-loop: 100%|██████████| 438/438 [00:15<00:00, 27.45it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 85.57it/s]
+Grad-cam testing
+Class 0 Accuracy: 11.26%
+Class 1 Accuracy: 37.88%
+Class 2 Accuracy: 29.87%
+Class 3 Accuracy: 0.00%
+Class 4 Accuracy: 14.93%
+Class 5 Accuracy: 93.74%
+Class 6 Accuracy: 13.80%
+Train Epoch: 3 Loss: 0.787717 Validation loss: 0.795689 Acc: 71.044521 
+Training-loop: 100%|██████████| 438/438 [00:16<00:00, 27.35it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 79.18it/s]
+Grad-cam testing
+Class 0 Accuracy: 12.50%
+Class 1 Accuracy: 40.04%
+Class 2 Accuracy: 32.05%
+Class 3 Accuracy: 0.31%
+Class 4 Accuracy: 16.14%
+Class 5 Accuracy: 93.72%
+Class 6 Accuracy: 19.70%
+Train Epoch: 4 Loss: 0.742494 Validation loss: 0.706619 Acc: 72.613204 
+Training-loop: 100%|██████████| 438/438 [00:16<00:00, 26.86it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 85.72it/s]
+Grad-cam testing
+Class 0 Accuracy: 13.68%
+Class 1 Accuracy: 42.12%
+Class 2 Accuracy: 34.28%
+Class 3 Accuracy: 0.25%
+Class 4 Accuracy: 17.64%
+Class 5 Accuracy: 93.75%
+Class 6 Accuracy: 25.25%
+Train Epoch: 5 Loss: 0.706664 Validation loss: 0.716933 Acc: 74.082002 
+Training-loop: 100%|██████████| 438/438 [00:16<00:00, 26.65it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 78.77it/s]
+Grad-cam testing
+Class 0 Accuracy: 15.86%
+Class 1 Accuracy: 44.57%
+Class 2 Accuracy: 35.91%
+Class 3 Accuracy: 0.21%
+Class 4 Accuracy: 19.28%
+Class 5 Accuracy: 93.73%
+Class 6 Accuracy: 29.29%
+100%|██████████| 16/16 [00:00<00:00, 34.96it/s]
+100%|██████████| 16/16 [00:00<00:00, 36.68it/s]
+100%|██████████| 16/16 [00:00<00:00, 35.83it/s]
+100%|██████████| 16/16 [00:00<00:00, 36.16it/s]
+100%|██████████| 16/16 [00:00<00:00, 35.06it/s]
+
+Train Epoch: 6 Loss: 0.679924 Validation loss: 0.717785 Acc: 75.093227 
+Training-loop: 100%|██████████| 438/438 [00:17<00:00, 25.54it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 79.85it/s]
+Grad-cam testing
+Class 0 Accuracy: 16.98%
+Class 1 Accuracy: 45.80%
+Class 2 Accuracy: 36.95%
+Class 3 Accuracy: 0.18%
+Class 4 Accuracy: 21.20%
+Class 5 Accuracy: 93.69%
+Class 6 Accuracy: 33.33%
+Train Epoch: 7 Loss: 0.657682 Validation loss: 0.781355 Acc: 75.252093 
+Training-loop: 100%|██████████| 438/438 [00:17<00:00, 25.23it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 78.24it/s]
+Grad-cam testing
+Class 0 Accuracy: 19.08%
+Class 1 Accuracy: 47.01%
+Class 2 Accuracy: 38.17%
+Class 3 Accuracy: 0.62%
+Class 4 Accuracy: 23.11%
+Class 5 Accuracy: 93.63%
+Class 6 Accuracy: 36.49%
+Train Epoch: 8 Loss: 0.629456 Validation loss: 0.704903 Acc: 76.410769 
+Training-loop: 100%|██████████| 438/438 [00:17<00:00, 25.01it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 67.78it/s]
+Grad-cam testing
+Class 0 Accuracy: 20.91%
+Class 1 Accuracy: 48.00%
+Class 2 Accuracy: 39.14%
+Class 3 Accuracy: 0.69%
+Class 4 Accuracy: 24.75%
+Class 5 Accuracy: 93.61%
+Class 6 Accuracy: 40.07%
+Train Epoch: 9 Loss: 0.612672 Validation loss: 0.670984 Acc: 76.980594 
+Training-loop: 100%|██████████| 438/438 [00:18<00:00, 23.79it/s]
+Validation-loop: 100%|██████████| 63/63 [00:00<00:00, 68.94it/s]
+Grad-cam testing
+Class 0 Accuracy: 22.19%
+Class 1 Accuracy: 49.19%
+Class 2 Accuracy: 40.10%
+Class 3 Accuracy: 1.38%
+Class 4 Accuracy: 26.50%
+Class 5 Accuracy: 93.63%
+Class 6 Accuracy: 43.43%
+Train Epoch: 10 Loss: 0.586637 Validation loss: 0.681766 Acc: 78.164003 
+Training-loop: 100%|██████████| 438/438 [00:19<00:00, 22.80it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 62.12it/s]
+Grad-cam testing
+Class 0 Accuracy: 23.92%
+Class 1 Accuracy: 50.34%
+Class 2 Accuracy: 41.27%
+Class 3 Accuracy: 1.93%
+Class 4 Accuracy: 28.10%
+Class 5 Accuracy: 93.67%
+Class 6 Accuracy: 45.91%
+100%|██████████| 16/16 [00:00<00:00, 31.34it/s]
+100%|██████████| 16/16 [00:00<00:00, 35.01it/s]
+100%|██████████| 16/16 [00:00<00:00, 35.31it/s]
+100%|██████████| 16/16 [00:00<00:00, 35.63it/s]
+100%|██████████| 16/16 [00:00<00:00, 35.53it/s]
+
+Train Epoch: 11 Loss: 0.551965 Validation loss: 0.715624 Acc: 79.306507 
+Training-loop: 100%|██████████| 438/438 [00:19<00:00, 21.96it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 57.44it/s]
+Grad-cam testing
+Class 0 Accuracy: 25.69%
+Class 1 Accuracy: 51.93%
+Class 2 Accuracy: 42.62%
+Class 3 Accuracy: 2.71%
+Class 4 Accuracy: 29.90%
+Class 5 Accuracy: 93.73%
+Class 6 Accuracy: 48.57%
+Train Epoch: 12 Loss: 0.511117 Validation loss: 0.757587 Acc: 81.335616 
+Training-loop: 100%|██████████| 438/438 [00:19<00:00, 22.12it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 60.32it/s]
+Grad-cam testing
+Class 0 Accuracy: 27.80%
+Class 1 Accuracy: 52.97%
+Class 2 Accuracy: 44.03%
+Class 3 Accuracy: 3.94%
+Class 4 Accuracy: 31.63%
+Class 5 Accuracy: 93.79%
+Class 6 Accuracy: 50.89%
+Train Epoch: 13 Loss: 0.478155 Validation loss: 0.751782 Acc: 82.190830 
+Training-loop: 100%|██████████| 438/438 [00:20<00:00, 21.80it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 60.13it/s]
+Grad-cam testing
+Class 0 Accuracy: 29.45%
+Class 1 Accuracy: 54.08%
+Class 2 Accuracy: 45.29%
+Class 3 Accuracy: 5.18%
+Class 4 Accuracy: 33.53%
+Class 5 Accuracy: 93.84%
+Class 6 Accuracy: 53.10%
+Train Epoch: 14 Loss: 0.443305 Validation loss: 0.766308 Acc: 83.144026 
+Training-loop: 100%|██████████| 438/438 [00:20<00:00, 21.19it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 59.02it/s]
+Grad-cam testing
+Class 0 Accuracy: 31.58%
+Class 1 Accuracy: 55.13%
+Class 2 Accuracy: 46.51%
+Class 3 Accuracy: 6.33%
+Class 4 Accuracy: 35.28%
+Class 5 Accuracy: 93.92%
+Class 6 Accuracy: 55.22%
+Train Epoch: 15 Loss: 0.412867 Validation loss: 0.783393 Acc: 84.316020 
+Training-loop: 100%|██████████| 438/438 [00:20<00:00, 21.16it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 54.61it/s]
+Grad-cam testing
+Class 0 Accuracy: 33.77%
+Class 1 Accuracy: 56.13%
+Class 2 Accuracy: 47.76%
+Class 3 Accuracy: 7.34%
+Class 4 Accuracy: 37.04%
+Class 5 Accuracy: 94.03%
+Class 6 Accuracy: 57.26%
+100%|██████████| 16/16 [00:00<00:00, 32.10it/s]
+100%|██████████| 16/16 [00:00<00:00, 34.46it/s]
+100%|██████████| 16/16 [00:00<00:00, 34.15it/s]
+100%|██████████| 16/16 [00:00<00:00, 34.20it/s]
+100%|██████████| 16/16 [00:00<00:00, 35.11it/s]
+
+Train Epoch: 16 Loss: 0.378978 Validation loss: 0.785980 Acc: 85.702055 
+Training-loop: 100%|██████████| 438/438 [00:22<00:00, 19.31it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 48.99it/s]
+Grad-cam testing
+Class 0 Accuracy: 35.71%
+Class 1 Accuracy: 57.15%
+Class 2 Accuracy: 49.10%
+Class 3 Accuracy: 8.82%
+Class 4 Accuracy: 38.88%
+Class 5 Accuracy: 94.12%
+Class 6 Accuracy: 59.06%
+Train Epoch: 17 Loss: 0.335584 Validation loss: 0.813100 Acc: 86.870244 
+Training-loop: 100%|██████████| 438/438 [00:22<00:00, 19.77it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 48.10it/s]
+Grad-cam testing
+Class 0 Accuracy: 37.96%
+Class 1 Accuracy: 58.16%
+Class 2 Accuracy: 50.51%
+Class 3 Accuracy: 10.62%
+Class 4 Accuracy: 40.74%
+Class 5 Accuracy: 94.23%
+Class 6 Accuracy: 60.77%
+Train Epoch: 18 Loss: 0.311928 Validation loss: 0.892131 Acc: 88.640601 
+Training-loop: 100%|██████████| 438/438 [00:23<00:00, 18.61it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 47.01it/s]
+Grad-cam testing
+Class 0 Accuracy: 39.84%
+Class 1 Accuracy: 59.20%
+Class 2 Accuracy: 51.92%
+Class 3 Accuracy: 12.63%
+Class 4 Accuracy: 42.65%
+Class 5 Accuracy: 94.33%
+Class 6 Accuracy: 62.52%
+Train Epoch: 19 Loss: 0.271161 Validation loss: 0.939796 Acc: 89.726027 
+Training-loop: 100%|██████████| 438/438 [00:24<00:00, 18.18it/s]
+Validation-loop: 100%|██████████| 63/63 [00:01<00:00, 47.02it/s]
+Grad-cam testing
+Class 0 Accuracy: 41.80%
+Class 1 Accuracy: 60.35%
+Class 2 Accuracy: 53.30%
+Class 3 Accuracy: 14.50%
+Class 4 Accuracy: 44.37%
+Class 5 Accuracy: 94.44%
+Class 6 Accuracy: 64.04%
+Train Epoch: 20 Loss: 0.245512 Validation loss: 1.074409 Acc: 90.625000 
