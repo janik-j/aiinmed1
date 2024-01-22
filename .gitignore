@@ -1,3 +1,5 @@
 *.nii.gz
 *.zip
 *.pt
+*.png
+*.txt
